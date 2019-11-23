@@ -24,6 +24,11 @@ body {
     color: white;
 }
 
+#main-form {
+    width: 680px;
+    margin: 0 auto;
+}
+
 ::selection {
     background: #cd2c00;
     color: white;
